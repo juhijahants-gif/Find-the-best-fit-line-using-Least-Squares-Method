@@ -48,12 +48,4 @@ plt.show()
 <img width="722" height="654" alt="image" src="https://github.com/user-attachments/assets/b82cf5f8-bd90-4d26-98d0-ff2cc7bc6eaa" />
 
 ## Result:
-Thus the program to implement the least square method for finding the best fit of line is written and verified using python programming.
-
-
-
-
-
-
-## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
